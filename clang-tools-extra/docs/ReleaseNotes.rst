@@ -130,6 +130,11 @@ New checks
 
   Warns on coroutines that accept reference parameters.
 
+- New :doc:`misc-enforce-this-style
+  <clang-tidy/checks/misc/enforce-this-style>` check.
+
+  FIXME: add release notes.
+
 - New :doc:`misc-use-anonymous-namespace
   <clang-tidy/checks/misc/use-anonymous-namespace>` check.
 
