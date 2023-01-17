@@ -30,7 +30,7 @@ public:
 
 private:
   enum class ThisStyle { Implicit, Explicit };
-  ThisStyle Style{ThisStyle::Implicit};
+  ThisStyle Style{ThisStyle::Explicit};
   std::string AllowedMacroRegexp;
 };
 
